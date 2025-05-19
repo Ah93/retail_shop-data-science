@@ -42,7 +42,7 @@ The notebook implements:
   
 ## 🔍 Dataset
 
-The dataset used in this project downloaded from Kaggle, it includes hotel booking records with various features like booking dates, length of stay, guest details, pricing, and whether the booking was canceled.
+The dataset used in this project downloaded from Kaggle, it includes online retail records with various features like Customer_id, product_name, price, payment method etc.
 
 ## ⚙️ Requirements
 
